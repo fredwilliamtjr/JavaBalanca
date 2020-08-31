@@ -1,178 +1,186 @@
-31/08/20 19:29:54:083 - TLibBALConfig.AplicarConfiguracoes: D:\Desktop\Balança\JavaBalanca\ACBrLib.ini
-31/08/20 19:29:54:083 - Travar
-31/08/20 19:29:54:084 - TLibBALConfig.AplicarConfiguracoes - Feito
-31/08/20 19:29:54:084 - Destravar
-31/08/20 19:29:54:085 - TLibBALConfig.Ler - Feito
-31/08/20 19:29:54:085 - Destravar
-31/08/20 19:29:54:085 - TACBrLibBAL.Inicializar - Feito
-31/08/20 19:29:54:086 - LIB_Inicializar( D:\Desktop\Balança\JavaBalanca\ACBrLib.ini,  )
-31/08/20 19:29:54:086 -    ACBrLibBAL - 0.1.0.324
-31/08/20 19:29:54:150 - TLibBALConfig.PrecisaCriptografar(Principal,LogNivel)
-31/08/20 19:29:54:151 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
-31/08/20 19:29:54:151 - LIB_ConfigGravarValor(Principal, LogNivel, logParanoico)
-31/08/20 19:29:54:152 - TLibBALConfig.PrecisaCriptografar(Principal,LogNivel)
-31/08/20 19:29:54:153 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
-31/08/20 19:29:54:153 - TLibBALConfig.AjustarValor(tfGravar,Principal,LogNivel,logParanoico)
-31/08/20 19:29:54:154 - TLibBALConfig.AjustarValor - Feito
-31/08/20 19:29:54:154 - TLibBALConfig.AplicarConfiguracoes: D:\Desktop\Balança\JavaBalanca\ACBrLib.ini
-31/08/20 19:29:54:156 - Travar
-31/08/20 19:29:54:159 - TLibBALConfig.AplicarConfiguracoes - Feito
-31/08/20 19:29:54:159 - Destravar
-31/08/20 19:29:54:160 -    SetRetorno(0, )
-31/08/20 19:29:54:160 - TLibBALConfig.PrecisaCriptografar(Principal,LogPath)
-31/08/20 19:29:54:161 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
-31/08/20 19:29:54:161 - LIB_ConfigGravarValor(Principal, LogPath, D:\Desktop\Balança\JavaBalanca\Logs)
-31/08/20 19:29:54:162 - TLibBALConfig.PrecisaCriptografar(Principal,LogPath)
-31/08/20 19:29:54:163 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
-31/08/20 19:29:54:163 - TLibBALConfig.AjustarValor(tfGravar,Principal,LogPath,D:\Desktop\Balança\JavaBalanca\Logs)
-31/08/20 19:29:54:164 - TLibBALConfig.AjustarValor - Feito
-31/08/20 19:29:54:165 - TLibBALConfig.AplicarConfiguracoes: D:\Desktop\Balança\JavaBalanca\ACBrLib.ini
-31/08/20 19:29:54:167 - Travar
-31/08/20 19:29:54:169 - TLibBALConfig.AplicarConfiguracoes - Feito
-31/08/20 19:29:54:171 - Destravar
-31/08/20 19:29:54:173 -    SetRetorno(0, )
-31/08/20 19:29:54:175 - LIB_ConfigGravar()
-31/08/20 19:29:54:178 - Travar
-31/08/20 19:29:54:178 - TLibBALConfig.Gravar: D:\Desktop\Balança\JavaBalanca\ACBrLib.ini
-31/08/20 19:29:54:180 - TLibBALConfig.Gravar - Feito
-31/08/20 19:29:54:181 - Destravar
-31/08/20 19:29:54:183 -    SetRetorno(0, )
-31/08/20 19:29:54:184 - LIB_ConfigLer()
-31/08/20 19:29:54:186 - Travar
-31/08/20 19:29:54:187 - TLibBALConfig.Ler: D:\Desktop\Balança\JavaBalanca\ACBrLib.ini
-31/08/20 19:29:54:190 - TLibBALConfig.AplicarConfiguracoes: D:\Desktop\Balança\JavaBalanca\ACBrLib.ini
-31/08/20 19:29:54:191 - Travar
-31/08/20 19:29:54:192 - TLibBALConfig.AplicarConfiguracoes - Feito
-31/08/20 19:29:54:193 - Destravar
-31/08/20 19:29:54:194 - TLibBALConfig.Ler - Feito
-31/08/20 19:29:54:195 - Destravar
-31/08/20 19:29:54:197 -    SetRetorno(0, )
-31/08/20 19:29:54:204 - LIB_ConfigLerValor(BAL, Porta)
-31/08/20 19:29:54:206 - TLibBALConfig.PrecisaCriptografar(BAL,Porta)
-31/08/20 19:29:54:208 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
-31/08/20 19:29:54:209 - TLibBALConfig.AjustarValor(tfLer,BAL,Porta,COM1)
-31/08/20 19:29:54:211 - TLibBALConfig.AjustarValor - Feito
-31/08/20 19:29:54:212 - TLibBALConfig.PrecisaCriptografar(BAL,Porta)
-31/08/20 19:29:54:214 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
-31/08/20 19:29:54:217 -    Valor:COM1, len:4
-31/08/20 19:29:54:218 -    SetRetorno(0, COM1)
-31/08/20 19:29:54:219 - LIB_ConfigLerValor(BAL, Modelo)
-31/08/20 19:29:54:220 - TLibBALConfig.PrecisaCriptografar(BAL,Modelo)
-31/08/20 19:29:54:221 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
-31/08/20 19:29:54:224 - TLibBALConfig.AjustarValor(tfLer,BAL,Modelo,1)
-31/08/20 19:29:54:225 - TLibBALConfig.AjustarValor - Feito
-31/08/20 19:29:54:227 - TLibBALConfig.PrecisaCriptografar(BAL,Modelo)
-31/08/20 19:29:54:228 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
-31/08/20 19:29:54:231 -    Valor:1, len:1
-31/08/20 19:29:54:233 -    SetRetorno(0, 1)
-31/08/20 19:29:54:238 - LIB_ConfigLerValor(BAL, Intervalo)
-31/08/20 19:29:54:240 - TLibBALConfig.PrecisaCriptografar(BAL,Intervalo)
-31/08/20 19:29:54:241 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
-31/08/20 19:29:54:242 - TLibBALConfig.AjustarValor(tfLer,BAL,Intervalo,2000)
-31/08/20 19:29:54:243 - TLibBALConfig.AjustarValor - Feito
-31/08/20 19:29:54:243 - TLibBALConfig.PrecisaCriptografar(BAL,Intervalo)
-31/08/20 19:29:54:244 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
-31/08/20 19:29:54:245 -    Valor:2000, len:4
-31/08/20 19:29:54:245 -    SetRetorno(0, 2000)
-31/08/20 19:29:54:247 - LIB_ConfigLerValor(BAL_Device, Baud)
-31/08/20 19:29:54:249 - TLibBALConfig.PrecisaCriptografar(BAL_Device,Baud)
-31/08/20 19:29:54:250 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
-31/08/20 19:29:54:251 - TLibBALConfig.AjustarValor(tfLer,BAL_Device,Baud,2400)
-31/08/20 19:29:54:253 - TLibBALConfig.AjustarValor - Feito
-31/08/20 19:29:54:254 - TLibBALConfig.PrecisaCriptografar(BAL_Device,Baud)
-31/08/20 19:29:54:255 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
-31/08/20 19:29:54:257 -    Valor:2400, len:4
-31/08/20 19:29:54:258 -    SetRetorno(0, 2400)
-31/08/20 19:29:54:261 - LIB_ConfigLerValor(BAL_Device, Data)
-31/08/20 19:29:54:263 - TLibBALConfig.PrecisaCriptografar(BAL_Device,Data)
-31/08/20 19:29:54:264 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
-31/08/20 19:29:54:264 - TLibBALConfig.AjustarValor(tfLer,BAL_Device,Data,8)
-31/08/20 19:29:54:265 - TLibBALConfig.AjustarValor - Feito
-31/08/20 19:29:54:266 - TLibBALConfig.PrecisaCriptografar(BAL_Device,Data)
-31/08/20 19:29:54:267 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
-31/08/20 19:29:54:267 -    Valor:8, len:1
-31/08/20 19:29:54:268 -    SetRetorno(0, 8)
-31/08/20 19:29:54:270 - LIB_ConfigLerValor(BAL_Device, Parity)
-31/08/20 19:29:54:271 - TLibBALConfig.PrecisaCriptografar(BAL_Device,Parity)
-31/08/20 19:29:54:272 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
-31/08/20 19:29:54:273 - TLibBALConfig.AjustarValor(tfLer,BAL_Device,Parity,0)
-31/08/20 19:29:54:275 - TLibBALConfig.AjustarValor - Feito
-31/08/20 19:29:54:276 - TLibBALConfig.PrecisaCriptografar(BAL_Device,Parity)
-31/08/20 19:29:54:278 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
-31/08/20 19:29:54:279 -    Valor:0, len:1
-31/08/20 19:29:54:280 -    SetRetorno(0, 0)
-31/08/20 19:29:54:281 - LIB_ConfigLerValor(BAL_Device, Stop)
-31/08/20 19:29:54:283 - TLibBALConfig.PrecisaCriptografar(BAL_Device,Stop)
-31/08/20 19:29:54:283 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
-31/08/20 19:29:54:284 - TLibBALConfig.AjustarValor(tfLer,BAL_Device,Stop,2)
-31/08/20 19:29:54:285 - TLibBALConfig.AjustarValor - Feito
-31/08/20 19:29:54:285 - TLibBALConfig.PrecisaCriptografar(BAL_Device,Stop)
-31/08/20 19:29:54:286 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
-31/08/20 19:29:54:287 -    Valor:2, len:1
-31/08/20 19:29:54:288 -    SetRetorno(0, 2)
-31/08/20 19:29:54:292 - LIB_ConfigLerValor(BAL_Device, MaxBandwidth)
-31/08/20 19:29:54:293 - TLibBALConfig.PrecisaCriptografar(BAL_Device,MaxBandwidth)
-31/08/20 19:29:54:294 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
-31/08/20 19:29:54:296 - TLibBALConfig.AjustarValor(tfLer,BAL_Device,MaxBandwidth,0)
-31/08/20 19:29:54:296 - TLibBALConfig.AjustarValor - Feito
-31/08/20 19:29:54:299 - TLibBALConfig.PrecisaCriptografar(BAL_Device,MaxBandwidth)
-31/08/20 19:29:54:300 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
-31/08/20 19:29:54:301 -    Valor:0, len:1
-31/08/20 19:29:54:302 -    SetRetorno(0, 0)
-31/08/20 19:29:54:303 - LIB_ConfigLerValor(BAL_Device, SendBytesCount)
-31/08/20 19:29:54:306 - TLibBALConfig.PrecisaCriptografar(BAL_Device,SendBytesCount)
-31/08/20 19:29:54:308 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
-31/08/20 19:29:54:309 - TLibBALConfig.AjustarValor(tfLer,BAL_Device,SendBytesCount,0)
-31/08/20 19:29:54:311 - TLibBALConfig.AjustarValor - Feito
-31/08/20 19:29:54:312 - TLibBALConfig.PrecisaCriptografar(BAL_Device,SendBytesCount)
-31/08/20 19:29:54:313 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
-31/08/20 19:29:54:315 -    Valor:0, len:1
-31/08/20 19:29:54:315 -    SetRetorno(0, 0)
-31/08/20 19:29:54:317 - LIB_ConfigLerValor(BAL_Device, SendBytesInterval)
-31/08/20 19:29:54:318 - TLibBALConfig.PrecisaCriptografar(BAL_Device,SendBytesInterval)
-31/08/20 19:29:54:319 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
-31/08/20 19:29:54:320 - TLibBALConfig.AjustarValor(tfLer,BAL_Device,SendBytesInterval,0)
-31/08/20 19:29:54:322 - TLibBALConfig.AjustarValor - Feito
-31/08/20 19:29:54:323 - TLibBALConfig.PrecisaCriptografar(BAL_Device,SendBytesInterval)
-31/08/20 19:29:54:325 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
-31/08/20 19:29:54:326 -    Valor:0, len:1
-31/08/20 19:29:54:326 -    SetRetorno(0, 0)
-31/08/20 19:29:54:328 - LIB_ConfigLerValor(BAL_Device, HandShake)
-31/08/20 19:29:54:329 - TLibBALConfig.PrecisaCriptografar(BAL_Device,HandShake)
-31/08/20 19:29:54:330 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
-31/08/20 19:29:54:332 - TLibBALConfig.AjustarValor(tfLer,BAL_Device,HandShake,0)
-31/08/20 19:29:54:333 - TLibBALConfig.AjustarValor - Feito
-31/08/20 19:29:54:334 - TLibBALConfig.PrecisaCriptografar(BAL_Device,HandShake)
-31/08/20 19:29:54:334 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
-31/08/20 19:29:54:337 -    Valor:0, len:1
-31/08/20 19:29:54:338 -    SetRetorno(0, 0)
-31/08/20 19:29:54:341 - LIB_ConfigLerValor(BAL_Device, SoftFlow)
-31/08/20 19:29:54:342 - TLibBALConfig.PrecisaCriptografar(BAL_Device,SoftFlow)
-31/08/20 19:29:54:343 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
-31/08/20 19:29:54:345 - TLibBALConfig.AjustarValor(tfLer,BAL_Device,SoftFlow,0)
-31/08/20 19:29:54:347 - TLibBALConfig.AjustarValor - Feito
-31/08/20 19:29:54:348 - TLibBALConfig.PrecisaCriptografar(BAL_Device,SoftFlow)
-31/08/20 19:29:54:348 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
-31/08/20 19:29:54:349 -    Valor:0, len:1
-31/08/20 19:29:54:350 -    SetRetorno(0, 0)
-31/08/20 19:29:54:351 - LIB_ConfigLerValor(BAL_Device, HardFlow)
-31/08/20 19:29:54:354 - TLibBALConfig.PrecisaCriptografar(BAL_Device,HardFlow)
-31/08/20 19:29:54:356 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
-31/08/20 19:29:54:357 - TLibBALConfig.AjustarValor(tfLer,BAL_Device,HardFlow,0)
-31/08/20 19:29:54:358 - TLibBALConfig.AjustarValor - Feito
-31/08/20 19:29:54:359 - TLibBALConfig.PrecisaCriptografar(BAL_Device,HardFlow)
-31/08/20 19:29:54:360 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
-31/08/20 19:29:54:362 -    Valor:0, len:1
-31/08/20 19:29:54:363 -    SetRetorno(0, 0)
-31/08/20 19:29:57:837 - BAL_Ativar
-31/08/20 19:29:57:838 - Travar
-31/08/20 19:29:57:840 -    SetRetorno(0, )
-31/08/20 19:29:57:840 - Destravar
-31/08/20 19:30:00:224 - BAL_SolicitarPeso
-31/08/20 19:30:00:224 - Travar
-31/08/20 19:30:00:225 -    SetRetorno(0, )
-31/08/20 19:30:00:225 - Destravar
-31/08/20 19:30:02:830 - BAL_LePeso( 2000 )
-31/08/20 19:30:02:831 - Travar
-31/08/20 19:30:04:836 -    SetRetorno(0, )
-31/08/20 19:30:04:837 - Destravar
+31/08/20 19:41:34:846 - TLibBALConfig.AplicarConfiguracoes: D:\Desktop\Balança\JavaBalanca\ACBrLib.ini
+31/08/20 19:41:34:846 - Travar
+31/08/20 19:41:34:847 - TLibBALConfig.AplicarConfiguracoes - Feito
+31/08/20 19:41:34:848 - Destravar
+31/08/20 19:41:34:848 - TLibBALConfig.Ler - Feito
+31/08/20 19:41:34:849 - Destravar
+31/08/20 19:41:34:849 - TACBrLibBAL.Inicializar - Feito
+31/08/20 19:41:34:850 - LIB_Inicializar( D:\Desktop\Balança\JavaBalanca\ACBrLib.ini,  )
+31/08/20 19:41:34:850 -    ACBrLibBAL - 0.1.0.324
+31/08/20 19:41:34:958 - TLibBALConfig.PrecisaCriptografar(Principal,LogNivel)
+31/08/20 19:41:34:959 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
+31/08/20 19:41:34:960 - LIB_ConfigGravarValor(Principal, LogNivel, logParanoico)
+31/08/20 19:41:34:962 - TLibBALConfig.PrecisaCriptografar(Principal,LogNivel)
+31/08/20 19:41:34:962 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
+31/08/20 19:41:34:963 - TLibBALConfig.AjustarValor(tfGravar,Principal,LogNivel,logParanoico)
+31/08/20 19:41:34:964 - TLibBALConfig.AjustarValor - Feito
+31/08/20 19:41:34:965 - TLibBALConfig.AplicarConfiguracoes: D:\Desktop\Balança\JavaBalanca\ACBrLib.ini
+31/08/20 19:41:34:966 - Travar
+31/08/20 19:41:34:968 - TLibBALConfig.AplicarConfiguracoes - Feito
+31/08/20 19:41:34:970 - Destravar
+31/08/20 19:41:34:972 -    SetRetorno(0, )
+31/08/20 19:41:34:974 - TLibBALConfig.PrecisaCriptografar(Principal,LogPath)
+31/08/20 19:41:34:974 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
+31/08/20 19:41:34:975 - LIB_ConfigGravarValor(Principal, LogPath, D:\Desktop\Balança\JavaBalanca\Logs)
+31/08/20 19:41:34:976 - TLibBALConfig.PrecisaCriptografar(Principal,LogPath)
+31/08/20 19:41:34:978 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
+31/08/20 19:41:34:979 - TLibBALConfig.AjustarValor(tfGravar,Principal,LogPath,D:\Desktop\Balança\JavaBalanca\Logs)
+31/08/20 19:41:34:981 - TLibBALConfig.AjustarValor - Feito
+31/08/20 19:41:34:982 - TLibBALConfig.AplicarConfiguracoes: D:\Desktop\Balança\JavaBalanca\ACBrLib.ini
+31/08/20 19:41:34:983 - Travar
+31/08/20 19:41:34:984 - TLibBALConfig.AplicarConfiguracoes - Feito
+31/08/20 19:41:34:986 - Destravar
+31/08/20 19:41:34:987 -    SetRetorno(0, )
+31/08/20 19:41:34:990 - LIB_ConfigGravar()
+31/08/20 19:41:34:991 - Travar
+31/08/20 19:41:34:992 - TLibBALConfig.Gravar: D:\Desktop\Balança\JavaBalanca\ACBrLib.ini
+31/08/20 19:41:34:993 - TLibBALConfig.Gravar - Feito
+31/08/20 19:41:34:994 - Destravar
+31/08/20 19:41:34:997 -    SetRetorno(0, )
+31/08/20 19:41:34:999 - LIB_ConfigLer()
+31/08/20 19:41:35:001 - Travar
+31/08/20 19:41:35:003 - TLibBALConfig.Ler: D:\Desktop\Balança\JavaBalanca\ACBrLib.ini
+31/08/20 19:41:35:009 - TLibBALConfig.AplicarConfiguracoes: D:\Desktop\Balança\JavaBalanca\ACBrLib.ini
+31/08/20 19:41:35:010 - Travar
+31/08/20 19:41:35:011 - TLibBALConfig.AplicarConfiguracoes - Feito
+31/08/20 19:41:35:013 - Destravar
+31/08/20 19:41:35:015 - TLibBALConfig.Ler - Feito
+31/08/20 19:41:35:017 - Destravar
+31/08/20 19:41:35:018 -    SetRetorno(0, )
+31/08/20 19:41:35:029 - LIB_ConfigLerValor(BAL, Porta)
+31/08/20 19:41:35:034 - TLibBALConfig.PrecisaCriptografar(BAL,Porta)
+31/08/20 19:41:35:037 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
+31/08/20 19:41:35:038 - TLibBALConfig.AjustarValor(tfLer,BAL,Porta,COM1)
+31/08/20 19:41:35:039 - TLibBALConfig.AjustarValor - Feito
+31/08/20 19:41:35:041 - TLibBALConfig.PrecisaCriptografar(BAL,Porta)
+31/08/20 19:41:35:042 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
+31/08/20 19:41:35:044 -    Valor:COM1, len:4
+31/08/20 19:41:35:048 -    SetRetorno(0, COM1)
+31/08/20 19:41:35:052 - LIB_ConfigLerValor(BAL, Modelo)
+31/08/20 19:41:35:053 - TLibBALConfig.PrecisaCriptografar(BAL,Modelo)
+31/08/20 19:41:35:053 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
+31/08/20 19:41:35:054 - TLibBALConfig.AjustarValor(tfLer,BAL,Modelo,1)
+31/08/20 19:41:35:054 - TLibBALConfig.AjustarValor - Feito
+31/08/20 19:41:35:055 - TLibBALConfig.PrecisaCriptografar(BAL,Modelo)
+31/08/20 19:41:35:056 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
+31/08/20 19:41:35:056 -    Valor:1, len:1
+31/08/20 19:41:35:057 -    SetRetorno(0, 1)
+31/08/20 19:41:35:061 - LIB_ConfigLerValor(BAL, Intervalo)
+31/08/20 19:41:35:063 - TLibBALConfig.PrecisaCriptografar(BAL,Intervalo)
+31/08/20 19:41:35:066 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
+31/08/20 19:41:35:068 - TLibBALConfig.AjustarValor(tfLer,BAL,Intervalo,2000)
+31/08/20 19:41:35:075 - TLibBALConfig.AjustarValor - Feito
+31/08/20 19:41:35:076 - TLibBALConfig.PrecisaCriptografar(BAL,Intervalo)
+31/08/20 19:41:35:077 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
+31/08/20 19:41:35:078 -    Valor:2000, len:4
+31/08/20 19:41:35:079 -    SetRetorno(0, 2000)
+31/08/20 19:41:35:083 - LIB_ConfigLerValor(BAL_Device, Baud)
+31/08/20 19:41:35:085 - TLibBALConfig.PrecisaCriptografar(BAL_Device,Baud)
+31/08/20 19:41:35:086 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
+31/08/20 19:41:35:088 - TLibBALConfig.AjustarValor(tfLer,BAL_Device,Baud,2400)
+31/08/20 19:41:35:089 - TLibBALConfig.AjustarValor - Feito
+31/08/20 19:41:35:090 - TLibBALConfig.PrecisaCriptografar(BAL_Device,Baud)
+31/08/20 19:41:35:091 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
+31/08/20 19:41:35:092 -    Valor:2400, len:4
+31/08/20 19:41:35:093 -    SetRetorno(0, 2400)
+31/08/20 19:41:35:096 - LIB_ConfigLerValor(BAL_Device, Data)
+31/08/20 19:41:35:098 - TLibBALConfig.PrecisaCriptografar(BAL_Device,Data)
+31/08/20 19:41:35:099 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
+31/08/20 19:41:35:101 - TLibBALConfig.AjustarValor(tfLer,BAL_Device,Data,8)
+31/08/20 19:41:35:102 - TLibBALConfig.AjustarValor - Feito
+31/08/20 19:41:35:104 - TLibBALConfig.PrecisaCriptografar(BAL_Device,Data)
+31/08/20 19:41:35:107 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
+31/08/20 19:41:35:108 -    Valor:8, len:1
+31/08/20 19:41:35:109 -    SetRetorno(0, 8)
+31/08/20 19:41:35:112 - LIB_ConfigLerValor(BAL_Device, Parity)
+31/08/20 19:41:35:113 - TLibBALConfig.PrecisaCriptografar(BAL_Device,Parity)
+31/08/20 19:41:35:115 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
+31/08/20 19:41:35:117 - TLibBALConfig.AjustarValor(tfLer,BAL_Device,Parity,0)
+31/08/20 19:41:35:118 - TLibBALConfig.AjustarValor - Feito
+31/08/20 19:41:35:120 - TLibBALConfig.PrecisaCriptografar(BAL_Device,Parity)
+31/08/20 19:41:35:121 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
+31/08/20 19:41:35:122 -    Valor:0, len:1
+31/08/20 19:41:35:123 -    SetRetorno(0, 0)
+31/08/20 19:41:35:124 - LIB_ConfigLerValor(BAL_Device, Stop)
+31/08/20 19:41:35:127 - TLibBALConfig.PrecisaCriptografar(BAL_Device,Stop)
+31/08/20 19:41:35:128 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
+31/08/20 19:41:35:128 - TLibBALConfig.AjustarValor(tfLer,BAL_Device,Stop,2)
+31/08/20 19:41:35:129 - TLibBALConfig.AjustarValor - Feito
+31/08/20 19:41:35:129 - TLibBALConfig.PrecisaCriptografar(BAL_Device,Stop)
+31/08/20 19:41:35:130 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
+31/08/20 19:41:35:131 -    Valor:2, len:1
+31/08/20 19:41:35:131 -    SetRetorno(0, 2)
+31/08/20 19:41:35:133 - LIB_ConfigLerValor(BAL_Device, MaxBandwidth)
+31/08/20 19:41:35:133 - TLibBALConfig.PrecisaCriptografar(BAL_Device,MaxBandwidth)
+31/08/20 19:41:35:135 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
+31/08/20 19:41:35:135 - TLibBALConfig.AjustarValor(tfLer,BAL_Device,MaxBandwidth,0)
+31/08/20 19:41:35:136 - TLibBALConfig.AjustarValor - Feito
+31/08/20 19:41:35:136 - TLibBALConfig.PrecisaCriptografar(BAL_Device,MaxBandwidth)
+31/08/20 19:41:35:137 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
+31/08/20 19:41:35:138 -    Valor:0, len:1
+31/08/20 19:41:35:138 -    SetRetorno(0, 0)
+31/08/20 19:41:35:139 - LIB_ConfigLerValor(BAL_Device, SendBytesCount)
+31/08/20 19:41:35:140 - TLibBALConfig.PrecisaCriptografar(BAL_Device,SendBytesCount)
+31/08/20 19:41:35:141 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
+31/08/20 19:41:35:142 - TLibBALConfig.AjustarValor(tfLer,BAL_Device,SendBytesCount,0)
+31/08/20 19:41:35:144 - TLibBALConfig.AjustarValor - Feito
+31/08/20 19:41:35:145 - TLibBALConfig.PrecisaCriptografar(BAL_Device,SendBytesCount)
+31/08/20 19:41:35:146 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
+31/08/20 19:41:35:147 -    Valor:0, len:1
+31/08/20 19:41:35:149 -    SetRetorno(0, 0)
+31/08/20 19:41:35:151 - LIB_ConfigLerValor(BAL_Device, SendBytesInterval)
+31/08/20 19:41:35:153 - TLibBALConfig.PrecisaCriptografar(BAL_Device,SendBytesInterval)
+31/08/20 19:41:35:154 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
+31/08/20 19:41:35:155 - TLibBALConfig.AjustarValor(tfLer,BAL_Device,SendBytesInterval,0)
+31/08/20 19:41:35:156 - TLibBALConfig.AjustarValor - Feito
+31/08/20 19:41:35:156 - TLibBALConfig.PrecisaCriptografar(BAL_Device,SendBytesInterval)
+31/08/20 19:41:35:157 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
+31/08/20 19:41:35:158 -    Valor:0, len:1
+31/08/20 19:41:35:159 -    SetRetorno(0, 0)
+31/08/20 19:41:35:160 - LIB_ConfigLerValor(BAL_Device, HandShake)
+31/08/20 19:41:35:162 - TLibBALConfig.PrecisaCriptografar(BAL_Device,HandShake)
+31/08/20 19:41:35:163 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
+31/08/20 19:41:35:164 - TLibBALConfig.AjustarValor(tfLer,BAL_Device,HandShake,0)
+31/08/20 19:41:35:166 - TLibBALConfig.AjustarValor - Feito
+31/08/20 19:41:35:168 - TLibBALConfig.PrecisaCriptografar(BAL_Device,HandShake)
+31/08/20 19:41:35:173 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
+31/08/20 19:41:35:174 -    Valor:0, len:1
+31/08/20 19:41:35:177 -    SetRetorno(0, 0)
+31/08/20 19:41:35:179 - LIB_ConfigLerValor(BAL_Device, SoftFlow)
+31/08/20 19:41:35:181 - TLibBALConfig.PrecisaCriptografar(BAL_Device,SoftFlow)
+31/08/20 19:41:35:182 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
+31/08/20 19:41:35:183 - TLibBALConfig.AjustarValor(tfLer,BAL_Device,SoftFlow,0)
+31/08/20 19:41:35:184 - TLibBALConfig.AjustarValor - Feito
+31/08/20 19:41:35:185 - TLibBALConfig.PrecisaCriptografar(BAL_Device,SoftFlow)
+31/08/20 19:41:35:186 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
+31/08/20 19:41:35:188 -    Valor:0, len:1
+31/08/20 19:41:35:190 -    SetRetorno(0, 0)
+31/08/20 19:41:35:191 - LIB_ConfigLerValor(BAL_Device, HardFlow)
+31/08/20 19:41:35:191 - TLibBALConfig.PrecisaCriptografar(BAL_Device,HardFlow)
+31/08/20 19:41:35:192 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
+31/08/20 19:41:35:193 - TLibBALConfig.AjustarValor(tfLer,BAL_Device,HardFlow,0)
+31/08/20 19:41:35:193 - TLibBALConfig.AjustarValor - Feito
+31/08/20 19:41:35:194 - TLibBALConfig.PrecisaCriptografar(BAL_Device,HardFlow)
+31/08/20 19:41:35:195 - TLibBALConfig.PrecisaCriptografar - Feito Result: False
+31/08/20 19:41:35:195 -    Valor:0, len:1
+31/08/20 19:41:35:196 -    SetRetorno(0, 0)
+31/08/20 19:41:44:192 - BAL_Ativar
+31/08/20 19:41:44:193 - Travar
+31/08/20 19:41:44:194 -    SetRetorno(0, )
+31/08/20 19:41:44:194 - Destravar
+31/08/20 19:41:45:424 - BAL_SolicitarPeso
+31/08/20 19:41:45:425 - Travar
+31/08/20 19:41:45:426 -    SetRetorno(0, )
+31/08/20 19:41:45:427 - Destravar
+31/08/20 19:41:47:656 - BAL_LePeso( 2000 )
+31/08/20 19:41:47:657 - Travar
+31/08/20 19:41:49:659 -    SetRetorno(0, )
+31/08/20 19:41:49:659 - Destravar
+31/08/20 19:41:51:238 - BAL_SolicitarPeso
+31/08/20 19:41:51:239 - Travar
+31/08/20 19:41:51:240 -    SetRetorno(0, )
+31/08/20 19:41:51:240 - Destravar
+31/08/20 19:41:54:071 - BAL_LePeso( 2000 )
+31/08/20 19:41:54:072 - Travar
+31/08/20 19:41:56:075 -    SetRetorno(0, )
+31/08/20 19:41:56:076 - Destravar
